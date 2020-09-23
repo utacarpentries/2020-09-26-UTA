@@ -78,7 +78,7 @@ displayed if the 'eventbrite' field in the header is not set.
 {% endif %}
 
 <h2>Registration</h2>
-<a href="https://common.forms.uta.edu/view.php?id=472329">Registration Form</a>
+<button onclick="document.location='https://common.forms.uta.edu/view.php?id=472329'">Registration Form</button>
 
 <h2 id="general">General Information</h2>
 
